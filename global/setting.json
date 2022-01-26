@@ -1,4 +1,7 @@
 {
     "editor.formatOnSave": true,
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "workbench.colorTheme": "Community Material Theme",
+    "workbench.iconTheme": "material-icon-theme",
+    "markdown-preview-github-styles.colorTheme": "light"
 }
